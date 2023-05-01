@@ -1,7 +1,4 @@
 # Klotski-Solver
-Klotski (Huarong Dao) Puzzle Solver (A* Search)
-
-## Summary 
 This program solves the Klotski(Hua Rong Dao) sliding puzzle game with ten pieces on a board that is 4 spaces wide and 5 spaces tall.
 
 ## Puzzle Description
