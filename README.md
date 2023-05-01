@@ -20,8 +20,7 @@ The program(source code) implements the following search algorithms:
 - A* search
 - It also includes the implementation of two heuristic functions for A* search:
   - Manhattan distance heuristic
-  - Advanced heuristic function (admissible and dominates the Manhattan distance heuristic)
-    - described in the pdf file in the current repository
+  - Advanced heuristic function (admissible and dominates the Manhattan distance heuristic -- see the pdf file)
   
 The program takes an input file that contains the initial board configuration and outputs the solutions found by DFS and A* to two separate plain text output files, in a specified format that willl be described below.
 
@@ -85,5 +84,3 @@ Cost of the solution: 116<br />
 3223<br />
 3443<br />
 0440<br />
-
-Make sure that the output files match this format exactly.
